@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Nova67
-- 👀 I’m interested in Robotcis, WepApp development, and cloudBased computing and Game Development
-- 🌱 I’m currently learning Electronics and Systems engineering
+I’m Nova67, Electronic and systems engineer. Minecraft Marketplace dev and artist.
 - 📫 How to reach me via Twitter at > @innova67
 
 <!---
